@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Newstron-React/static/css/main.a4a20492.chunk.css",
+    "main.js": "/Newstron-React/static/js/main.65ab7d7d.chunk.js",
+    "main.js.map": "/Newstron-React/static/js/main.65ab7d7d.chunk.js.map",
+    "runtime-main.js": "/Newstron-React/static/js/runtime-main.12a59c4b.js",
+    "runtime-main.js.map": "/Newstron-React/static/js/runtime-main.12a59c4b.js.map",
+    "static/js/2.587c476a.chunk.js": "/Newstron-React/static/js/2.587c476a.chunk.js",
+    "static/js/2.587c476a.chunk.js.map": "/Newstron-React/static/js/2.587c476a.chunk.js.map",
+    "static/js/3.070f01a3.chunk.js": "/Newstron-React/static/js/3.070f01a3.chunk.js",
+    "static/js/3.070f01a3.chunk.js.map": "/Newstron-React/static/js/3.070f01a3.chunk.js.map",
+    "index.html": "/Newstron-React/index.html",
+    "static/css/main.a4a20492.chunk.css.map": "/Newstron-React/static/css/main.a4a20492.chunk.css.map",
+    "static/js/2.587c476a.chunk.js.LICENSE.txt": "/Newstron-React/static/js/2.587c476a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12a59c4b.js",
+    "static/js/2.587c476a.chunk.js",
+    "static/css/main.a4a20492.chunk.css",
+    "static/js/main.65ab7d7d.chunk.js"
+  ]
+}
